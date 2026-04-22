@@ -6,7 +6,7 @@
 </head>
 <body>
 
-    <h1>Student Management System</h1>
+    <h1>Student</h1>
 
     <div class="form">
         <input type="text" id="name" placeholder="Enter Name">
