@@ -1,4 +1,3 @@
-# student-mamagement-system.
 <!DOCTYPE html>
 <html>
 <head>
